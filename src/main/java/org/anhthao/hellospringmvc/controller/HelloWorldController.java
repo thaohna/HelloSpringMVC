@@ -1,4 +1,4 @@
-package org.o7planning.hellospringmvc.controller;
+package org.anhthao.hellospringmvc.controller;
  
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;

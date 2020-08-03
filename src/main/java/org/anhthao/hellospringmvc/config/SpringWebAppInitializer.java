@@ -1,4 +1,4 @@
-package org.o7planning.hellospringmvc.config;
+package org.anhthao.hellospringmvc.config;
  
 import javax.servlet.FilterRegistration;
 import javax.servlet.ServletContext;
